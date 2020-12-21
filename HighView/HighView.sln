@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighView", "HighView.csproj", "{D5E4DFE5-1A5D-464A-A83F-E1EC54A3CDC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E4DFE5-1A5D-464A-A83F-E1EC54A3CDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E4DFE5-1A5D-464A-A83F-E1EC54A3CDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E4DFE5-1A5D-464A-A83F-E1EC54A3CDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E4DFE5-1A5D-464A-A83F-E1EC54A3CDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A101576-2FD4-4DB6-B887-69B006AA6451}
+	EndGlobalSection
+EndGlobal
